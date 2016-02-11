@@ -1,1 +1,2 @@
-# MeanShiftClustering
+# Snyo's Mean Shift Clustering
+
